@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Jardim animado história",
+      "theme": "jardim",
+      "category": "animado",
+      "description": "Convite digital animado história. Tema: Jardim",
+      "image": "/jardim-animado-historia.mp4",
+      "video": "/jardim-animado-historia.mp4",
+      "age": "baby",
+      "price": 40,
+      "slug": "jardim-animado-historia",
+      "featured": true
+    },
+
+    {
+      "id": 2,
+      "title": "Fazendinha aquarela menino",
+      "theme": "Fazendinha aquarela",
+      "category": "animado",
+      "description": "Convite digital animado história. Tema: Fazendinha aquarela",
+      "image": "/fazendinha-aquarela-menino.mp4",
+      "video": "/fazendinha-aquarela-menino.mp4",
+      "age": "baby",
+      "price": 40,
+      "slug": "fazendinha-aquarela-menino",
+      "featured": true
+    },
+
+    {
+      "id": 3,
+      "title": "Branca de neve",
+      "theme": "branca de neve",
+      "category": "animado",
+      "description": "Convite digital animado história. Tema: Branca de neve",
+      "image": "/branca-de-neve-animado-historia.mp4",
+      "video": "/branca-de-neve-animado-historia.mp4",
+      "age": "baby",
+      "price": 40,
+      "slug": "branca-de-neve-animado-historia",
+      "featured": true
+    },
+
+    {
+      "id": 4,
+      "title": "Alice rosa",
+      "theme": "Alice rosa",
+      "category": "animado",
+      "description": "Convite digital animado história. Tema: Alice rosa",
+      "image": "/alice-rosa-animado-historia.mp4",
+      "video": "/alice-rosa-animado-historia.mp4",
+      "age": "baby",
+      "price": 40,
+      "slug": "alice-rosa-animado-historia",
+      "featured": true
+    },
+
+    {
+      "id": 5,
+      "title": "Primeira volta ao sol",
+      "theme": "primeira volta ao sol",
+      "category": "animado",
+      "description": "Convite digital animado história. Tema: Primeira volta ao sol",
+      "image": "/primeira-volta-ao-sol-animado.mp4",
+      "video": "/primeira-volta-ao-sol-animado.mp4",
+      "age": "baby",
+      "price": 40,
+      "slug": "primeira-volta-ao-sol-animado",
+      "featured": true
+    }
+
+  ]
+}
