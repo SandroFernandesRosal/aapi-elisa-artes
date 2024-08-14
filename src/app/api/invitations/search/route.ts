@@ -9,7 +9,7 @@ export async function GET(request: NextRequest) {
 
   const query = z.string().parse(searchParams.get('q'))
 
-  const products = data.products.filter((product) => {
+  const products = data.invitations.filter((product) => {
     return product.title.toLocaleLowerCase().includes(query.toLocaleLowerCase())
   })
 
