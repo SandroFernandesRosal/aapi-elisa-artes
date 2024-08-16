@@ -2,7 +2,7 @@
   "highlight": [
     {
       "id": 1,
-      "title": "convite",
+      "title": "convite digital animado",
       "theme": "jardim",
       "category": "animado",
       "description": "Convite digital animado história",
@@ -10,35 +10,35 @@
       "video": "/convite.mp4",
       "age": "baby",
       "price": 40,
-      "slug": "branca-de-neve",
+      "slug": "convite-branca-de-neve",
       "featured": true
     },
 
     {
       "id": 2,
-      "title": "filtro",
+      "title": "filtro para instagram + QR code",
       "theme": "urso",
       "category": "animado",
-      "description": "Convite digital animado história.",
+      "description": "Filtro para instagram + QR code.",
       "image": "/filtro.png",
       "video": null,
       "age": "baby",
-      "price": 40,
-      "slug": "urso",
+      "price": 35,
+      "slug": "urso-filtro",
       "featured": true
     },
 
     {
       "id": 3,
-      "title": "savethedate",
+      "title": "save the date",
       "theme": "branca de neve",
       "category": "animado",
-      "description": "Convite digital animado história. Tema: Branca de neve",
+      "description": "Save the date. Tema: Branca de neve",
       "image": "/save-the-date.png",
       "video": null,
       "age": "baby",
-      "price": 40,
-      "slug": "branca-de-neve-animado-historia",
+      "price": 20,
+      "slug": "save-the-date-branca-de-neve",
       "featured": true
     },
 
@@ -47,12 +47,12 @@
       "title": "lembrete",
       "theme": "branca de neve",
       "category": "animado",
-      "description": "Convite digital animado história.",
+      "description": "lembrete.",
       "image": "/lembrete.png",
       "video": null,
       "age": "baby",
       "price": 40,
-      "slug": "branca-de-neve-animado-historia",
+      "slug": "lembrete",
       "featured": false
     }
 
