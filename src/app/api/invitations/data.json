@@ -19,7 +19,7 @@
       "title": "Fazendinha aquarela menino",
       "theme": "Fazendinha aquarela",
       "category": "animado",
-      "description": "Convite digital animado história. Tema: Fazendinha aquarela",
+      "description": "Convite digital animado história.",
       "image": "/Fazendinha-aquarela-menino.png",
       "video": "/fazendinha-aquarela-menino.mp4",
       "age": "baby",
@@ -67,7 +67,7 @@
       "age": "baby",
       "price": 40,
       "slug": "primeira-volta-ao-sol-animado",
-      "featured": true
+      "featured": false
     }
 
   ]
